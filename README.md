@@ -12,6 +12,6 @@ Compilando e executando código do servidor:
 
 ```
 Compilando e executando:
-$ gcc servidor.c -o nomeDoPrograma
+$ gcc arquivo.c -o nomeDoPrograma
 $ ./nomeDoPrograma
 ```
